@@ -1,0 +1,244 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body{
+	font-family: 'Lato', sans-serif;
+}
+.head{
+	background-color:#272727;
+	padding: 20px;
+}
+.head nav{
+	word-spacing:10px;
+	margin-bottom: 10px;
+}
+.home,.generic,.elements{
+	text-decoration: none;
+	color:white;
+	float: right;
+	margin-right: 20px;
+	text-transform: uppercase;
+
+	}
+.introspect{
+	text-align:left;
+	color:#DD3C3C;
+	float:left;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.div2 .h2{
+text-transform: uppercase;
+padding:20px;
+font-size: 25px;
+
+
+}
+.div2 .p1{
+	padding: 20px;
+	line-height:20px;
+
+}
+.div2 a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:white;
+	border:1px solid white;
+	font-size:10px;
+	padding:5px;
+	
+}
+.div2 .nav{
+	padding:20px;
+}
+.div2{
+	color:white;
+	background-color:#272727;
+}
+.div3 .h2{
+text-transform: uppercase;
+padding:20px;
+color:red;
+
+}
+.div3 .p1{
+	padding: 20px;
+	color:#272727;
+	line-height:20px;
+
+}
+.div3 a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color:red;
+	border:1px solid red;
+	font-size: 10px;
+	padding: 5px;
+	
+}
+.div3 .nav{
+	padding:20px;
+}
+.div3{
+	color:white;
+	background-color:#FFFFFF;
+}
+.div4{
+	background:#F1F0F0;
+	}
+.box{
+	height: 100px;
+	width: 100px;
+	border-radius:50%;
+	background-color:red;
+	padding:50px;
+	display:inline-block;
+	
+}
+.div4 .h2{
+	text-transform: uppercase;
+	padding:20px;
+	color:red;
+}
+.div4 .p{
+	padding-left:20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	color:#272727;
+	text-align: justify-all;
+	line-height:20px;
+}
+.div4 .center{
+	text-align:center;
+	text-align: justify-all;
+	color: #272727;
+	line-height:20px;
+
+}
+.div4{
+padding-top:30px; 
+padding-bottom:30px;
+}
+.circle{
+	text-align:center;
+}
+.get-in-touch{
+padding: 20px;
+text-transform: uppercase;
+color:white;
+}
+.name{
+text-transform: uppercase;
+color:#FFFFFF;
+padding: 20px;
+}
+.name-box{
+border:1px solid #FFFFFF;
+padding: 12px;
+margin-left: 20px;
+font-size: 15px;
+}
+.message{
+padding: 20px;
+text-transform: uppercase;
+}
+.message-box{
+border:1px solid #FFFFFF;
+padding:100px;
+margin-left: 20px;
+font-size: 15px;
+}
+.nav-send-message{
+padding: 20px;
+
+}
+.send-message{
+padding: 5px;
+text-decoration: none;
+border:1px solid #ffffff;
+color:#ffffff;
+text-transform: uppercase;
+font-size: 10px;
+
+}
+.div5{
+	background-color: #DD3C3C;
+	color:#FFFFFF;
+	padding: 20px;
+}
+small{
+	padding: 20px;
+ }
+ .section-1{
+ 	padding-left:30px;
+ 	padding-right:30px;
+ 	background: #272727;
+ }
+ .section-2{
+ 	 background: #272727;
+ 	 padding-left:30px;
+ 	 padding-right: 30px;
+ 	 padding-top:60px;
+ 	 padding-bottom:60px;
+ }
+ .section-3{
+ 	padding-left:30px;
+ 	padding-right: 30px;
+ 	padding-top: 40px;
+ 	padding-bottom: 40px;
+ 	background: #FFFFFF;
+ }.div4{
+	 padding-left:30px;
+	 padding-right:30px;
+	 padding-top: 60px;
+	 padding-bottom: 60px; 
+}
+ .section-4{
+ 	padding-left:30px;
+ 	padding-right: 30px;
+ 	padding-top: 60px;
+ 	padding-right: 60px;
+ 	background: #DD3C3C;
+ }
